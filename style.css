@@ -59,3 +59,14 @@ img {
   background-color: rgb(225, 57, 85);
   border-radius: 50px;
 }
+
+cite {
+  padding-top: 5px;
+}
+
+cite img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  position: static;
+}
